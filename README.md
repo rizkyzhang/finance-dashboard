@@ -4,6 +4,8 @@
 - React Router
 - Supabase
 - Chakra UI
+- Stock API = https://syncwith.com/api/yahoo-finance/all-endpoints
+- News API = https://newsapi.org/
 
 ## Techs Decision
 
